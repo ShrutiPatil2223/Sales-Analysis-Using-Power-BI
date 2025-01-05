@@ -11,5 +11,5 @@ Here, you can compare total sales, profit, and quantity sold between two differe
 ## Interactive Sales and Profit
 This section lets you interact with the data by comparing sales, profit, and quantity. Sliders allow you to change the dates and see how sales have performed over time. It’s a simple way to check how things are progressing month by month or year by year.
 
-## Detailed Sales Table
+## Detailed Sales Table visuals
 The table shows all the details of sales, including customer info, product IDs, and sales numbers. You can filter the table by date, customer name, product, and promotion. It’s useful when you need to dive deeper into the numbers and get specific information for reports or analysis.
